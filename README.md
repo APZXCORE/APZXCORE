@@ -18,7 +18,7 @@
 &nbsp;
 <img src="https://img.shields.io/github/followers/APZXCORE?label=🩸+FOLLOWERS&style=for-the-badge&color=8B0000&labelColor=000000" />
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-FORGING-8B0000?style=for-the-badge&labelColor=000000&logo=statuspage&logoColor=CC0000" />
+<img src="https://img.shields.io/badge/STATUS-Building!-8B0000?style=for-the-badge&labelColor=000000&logo=statuspage&logoColor=CC0000" />
 
 </div>
 
@@ -33,7 +33,7 @@
 <!-- ╚══════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-<h2>⚔️ &nbsp; C O R E . P R O F I L E &nbsp; ⚔️</h2>
+<h2>⚔️ &nbsp; A P Z X . C O R E &nbsp; ⚔️</h2>
 </div>
 
 ```typescript
@@ -43,12 +43,11 @@
 
   const DEVELOPER = {
     alias        : "APZX CORE",
-    role         : "⚔️  Full Stack Developer",
-    origin       : "🌑  Pakistan  ——  Forged in Darkness",
+    role         : "Full Stack Developer",
+    origin       : "Islamabad  ——  Borned in Pakistan",
     stack        : ["React", "Next.js", "Node.js", "TypeScript", "Python"],
     infra        : ["Docker", "AWS", "MongoDB", "PostgreSQL", "Redis"],
     current      : "🩸 Building production-grade systems from the void",
-    creed        : "Steel spikes. Crimson code. Zero mercy for bugs.",
     contact      : "📩 support@core.apzx.fun",
   };
 
@@ -174,18 +173,9 @@
 
 </div>
 
-<br/>
-
-<!-- ╔══════════════════════════════════════════════════════╗ -->
-<!--                   STEEL FOOTER                          -->
-<!-- ╚══════════════════════════════════════════════════════╝ -->
-
 <div align="center">
 
 ```
-   ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-        ⛧  Steel Spikes.  Crimson Code.  No Mercy.  ⛧
-   ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
                    📩  support@core.apzx.fun
 ```
 
