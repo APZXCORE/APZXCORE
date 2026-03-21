@@ -38,7 +38,7 @@
 
 ```typescript
 ╔══════════════════════════════════════════════════════════════╗
-║              ⛧  APZX_CORE.exe  —  AWAKENED  ⛧              ║
+║              ⛧  APZX_CORE.exe  —  Building  ⛧                ║
 ╠══════════════════════════════════════════════════════════════╣
 
   const DEVELOPER = {
@@ -118,20 +118,6 @@
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=APZXCORE&hide_border=true&background=0d0000&stroke=8B0000&ring=CC0000&fire=FF0000&currStreakLabel=C0C0C0&sideLabels=C0C0C0&dates=555555&currStreakNum=CC0000&sideNums=8B0000" />
-
-</div>
-
-<br/>
-
-<!-- ╔══════════════════════════════════════════════════════╗ -->
-<!--                   TROPHIES                              -->
-<!-- ╚══════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-## 🏆 &nbsp; S P I K E S &nbsp; C L A I M E D
-
-<img src="https://github-profile-trophy.vercel.app/?username=APZXCORE&theme=blood_dark&no-frame=true&no-bg=true&margin-w=6&row=1" />
 
 </div>
 
