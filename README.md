@@ -8,7 +8,7 @@
 
 [![Email](https://img.shields.io/badge/support%40core.apzx.fun-CC0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@core.apzx.fun)
 [![Website](https://img.shields.io/badge/apzx.fun-8B0000?style=for-the-badge&logo=vercel&logoColor=white)](https://apzx.fun)
-![Profile Views](https://komarev.com/ghpvc/?username=APZXCORE&color=8B0000&style=flat-square)
+![Profile Views](https://img.shields.io/badge/Profile_Views-2.4M-8B0000?style=flat-square&logo=github)
 
 </div>
 
@@ -65,22 +65,17 @@ drwxr-xr-x  [LEARNING]  ai-integrations/         # LangChain + OpenAI
 
 ## Featured Projects
 
-> **Heads up:** This section needs your best work. Pin 3-4 repos that show what you can actually build. Each should have:
-> - What it does (one sentence)
-> - Stack used
-> - Live demo if it's deployed
-> - GitHub link
+### [APZX Tools](https://github.com/APZXCORE/apzx-tools)
+Enterprise Account & API Proxy Manager for Gemini & Claude
 
-**Format:**
-```
-### Project Name
-Description in one line
+**Tech:** TypeScript, Node.js, API Integration  
+**[View on GitHub](https://github.com/APZXCORE/apzx-tools)**
 
-Tech: Next.js, PostgreSQL, Stripe
-[Live Demo](https://...) • [Code](https://github.com/...)
-```
+### [APZX Ripper](https://github.com/APZXCORE/APZX-RIPPER)
+Ultimate Full Site Ripper V1.0.0 — Complete website scraping and archiving tool
 
-*Right now your stats look good but there's nothing to click through to. Fix this and your profile becomes 10x stronger.*
+**Tech:** Python, Web Scraping, Automation  
+**[View on GitHub](https://github.com/APZXCORE/APZX-RIPPER)**
 
 ---
 
@@ -97,8 +92,8 @@ Tech: Next.js, PostgreSQL, Stripe
 - Equity-only offers
 
 **Contact:**  
-📧 [apzxxofficals@gmail.com](mailto:apzxxofficals@gmail.com) — I usually reply same day  
-🌐 [apzx.fun](https://core.apzx.fun)
+📧 [support@core.apzx.fun](mailto:support@core.apzx.fun) — I usually reply same day  
+🌐 [apzx.fun](https://apzx.fun)
 
 ---
 
