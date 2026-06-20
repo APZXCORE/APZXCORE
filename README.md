@@ -8,7 +8,7 @@
 
 [![Email](https://img.shields.io/badge/support%40core.apzx.fun-CC0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@core.apzx.fun)
 [![Website](https://img.shields.io/badge/apzx.fun-8B0000?style=for-the-badge&logo=vercel&logoColor=white)](https://apzx.fun)
-![Profile Views](https://img.shields.io/badge/Profile_Views-240M-8B0000?style=flat-square&logo=github)
+![Profile Views](https://img.shields.io/badge/Profile_Views-240.2M-8B0000?style=flat-square&logo=github)
 
 </div>
 
