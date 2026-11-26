@@ -18,7 +18,7 @@
 
 <a href="https://apzx.fun"><img src="https://img.shields.io/badge/apzx.fun-0a0000?style=for-the-badge&logo=googlechrome&logoColor=B3001B" /></a>
 <a href="https://clippiex.com"><img src="https://img.shields.io/badge/clippiex.com-0a0000?style=for-the-badge&logo=youtubeshorts&logoColor=B3001B" /></a>
-<a href="https://notchaura.xyz"><img src="https://img.shields.io/badge/notchaura.xyz-0a0000?style=for-the-badge&logo=windows11&logoColor=B3001B" /></a>
+<a href="https://github.com/APZXCORE/NotchAura"><img src="https://img.shields.io/badge/NotchAura-0a0000?style=for-the-badge&logo=windows11&logoColor=B3001B" /></a>
 <a href="mailto:support@core.apzx.fun"><img src="https://img.shields.io/badge/support@core.apzx.fun-0a0000?style=for-the-badge&logo=maildotru&logoColor=B3001B" /></a>
 
 </div>
@@ -61,7 +61,7 @@
 
 <br/>
 
-<a href="https://notchaura.xyz"><img src="./assets/notchaura.svg" width="96" alt="NotchAura" /></a>
+<a href="https://github.com/APZXCORE/NotchAura"><img src="./assets/notchaura.svg" width="96" alt="NotchAura" /></a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Metal+Mania&size=34&duration=3000&pause=99999&color=C0C0C0&center=true&vCenter=true&width=300&height=52&lines=NotchAura" />
 
