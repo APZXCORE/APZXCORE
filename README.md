@@ -1,53 +1,65 @@
 <div align="center">
 
-<!-- ═══════════════════════ HEADER ═══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:3a0000,100:8B0000&height=110&section=header&animation=twinkling" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,40:1a0000,70:8B0000,100:000000&height=240&section=header&text=A%20P%20Z%20X%20%20C%20O%20R%20E&fontSize=62&fontColor=CC0000&fontAlign=50&fontAlignY=42&animation=twinkling&desc=%E2%96%B8%20full%20stack%20%C2%B7%20real-time%20%C2%B7%20systems%20that%20ship&descSize=16&descAlignY=64&descAlign=50&stroke=8B0000&strokeWidth=1" width="100%" />
+<img src="./assets/apzxcore13.png" alt="APZX CORE" width="460" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=CC0000&center=true&vCenter=true&multiline=false&repeat=true&width=620&height=40&lines=%3E+whoami;%3E+full_stack_developer+%2F%2F+islamabad%2C+PK;%3E+typescript+%E2%94%82+react+%E2%94%82+node.js;%3E+building+real+systems+that+ship;%3E+online+00%3A00+%E2%86%92+04%3A00+PKT+%E2%96%88" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=34&duration=2600&pause=900&color=B3001B&center=true&vCenter=true&width=720&height=60&lines=Forged+in+code.+Bound+to+ship.;Full+Stack+%E2%80%A0+TypeScript+%E2%80%A0+React+%E2%80%A0+Node.js;Islamabad%2C+Pakistan;ClippieX+is+alive.;NotchAura+awakens+soon..." alt="typing" />
+
+<img src="https://img.shields.io/badge/PROFILE%20VIEWS-60T-B3001B?style=for-the-badge&labelColor=0a0000" />
+<img src="https://img.shields.io/badge/STATUS-SHIPPING-C0C0C0?style=for-the-badge&labelColor=0a0000" />
+<img src="https://img.shields.io/badge/ONLINE-12AM%20%E2%86%92%204AM%20PKT-8B0000?style=for-the-badge&labelColor=0a0000" />
 
 <br/>
 
-<a href="mailto:support@core.apzx.fun"><img src="https://img.shields.io/badge/-support@core.apzx.fun-000000?style=for-the-badge&logo=gmail&logoColor=CC0000&labelColor=000000&color=1a0000" /></a>
-<a href="https://apzx.fun"><img src="https://img.shields.io/badge/-apzx.fun-000000?style=for-the-badge&logo=vercel&logoColor=CC0000&labelColor=000000&color=1a0000" /></a>
-<a href="https://github.com/APZXCORE"><img src="https://img.shields.io/github/followers/APZXCORE?style=for-the-badge&logo=github&logoColor=CC0000&label=followers&labelColor=000000&color=8B0000" /></a>
-<img src="https://komarev.com/ghpvc/?username=APZXCORE&style=for-the-badge&color=8B0000&label=VIEWS&labelColor=000000" />
+<a href="https://apzx.fun"><img src="https://img.shields.io/badge/apzx.fun-0a0000?style=for-the-badge&logo=googlechrome&logoColor=B3001B" /></a>
+<a href="https://clippiex.com"><img src="https://img.shields.io/badge/clippiex.com-0a0000?style=for-the-badge&logo=rocket&logoColor=B3001B" /></a>
+<a href="mailto:support@core.apzx.fun"><img src="https://img.shields.io/badge/support@core.apzx.fun-0a0000?style=for-the-badge&logo=maildotru&logoColor=B3001B" /></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8B0000,100:000000&height=2&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:8B0000,50:C0C0C0,75:8B0000,100:000000&height=2" width="100%" />
 
-## `〔 01 〕` ⟶ 𝚠𝚑𝚘𝚊𝚖𝚒
+<h2 align="center">✠ 𝕿𝖍𝖊 𝕽𝖊𝖑𝖎𝖈𝖘 ✠</h2>
 
-```ts
-const apzx = {
-  role:      "Full Stack Developer",
-  base:      "Islamabad, Pakistan 🇵🇰",
-  stack:     ["TypeScript", "React", "Next.js", "Node.js"],
-  building:  "a SaaS platform + real-time systems",
-  learning:  ["Rust", "AI integrations"],
-  uptime:    "12 AM → 4 AM PKT",
-  motto:     "ship fast. break things. fix faster.",
-} as const;
-```
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8B0000,100:000000&height=2&section=header" width="100%" />
+<table>
+<tr>
+<td align="center" width="50%">
 
-## `〔 02 〕` ⟶ 𝚌𝚞𝚛𝚛𝚎𝚗𝚝_𝚠𝚘𝚛𝚔
+<a href="https://clippiex.com"><img src="https://www.google.com/s2/favicons?domain=clippiex.com&sz=128" width="72" /></a>
 
-```diff
-$ ls -la ~/current-work/
+<img src="https://readme-typing-svg.demolab.com?font=Metal+Mania&size=32&duration=3000&pause=99999&color=B3001B&center=true&vCenter=true&width=280&height=50&lines=ClippieX" />
 
-+ drwxr-xr-x  [ SHIPPING ]  saas-platform/        # Next.js · PostgreSQL · Stripe
-+ drwxr-xr-x  [  ACTIVE  ]  realtime-dashboard/   # WebSockets · Redis
-! drwxr-xr-x  [   WIP    ]  cli-tooling/          # TypeScript toolchain
-# drwxr-xr-x  [ LEARNING ]  rust-experiments/     # systems programming
-# drwxr-xr-x  [ LEARNING ]  ai-integrations/      # LangChain · OpenAI
-```
+<img src="https://img.shields.io/badge/%E2%97%8F%20LIVE-B3001B?style=flat-square&labelColor=0a0000" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8B0000,100:000000&height=2&section=header" width="100%" />
+<sub>Out now. Go break it.</sub>
 
-## `〔 03 〕` ⟶ 𝚊𝚛𝚜𝚎𝚗𝚊𝚕
+<a href="https://clippiex.com"><img src="https://img.shields.io/badge/ENTER%20%E2%86%92-8B0000?style=for-the-badge&labelColor=0a0000" /></a>
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=56&duration=3000&pause=99999&color=C0C0C0&center=true&vCenter=true&width=90&height=72&lines=N" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Metal+Mania&size=32&duration=3000&pause=99999&color=C0C0C0&center=true&vCenter=true&width=280&height=50&lines=NotchAura" />
+
+<img src="https://img.shields.io/badge/%E2%97%8C%20COMING%20SOON-555555?style=flat-square&labelColor=0a0000" />
+
+<sub>Something is being summoned.</sub>
+
+<img src="https://img.shields.io/badge/SEALED-333333?style=for-the-badge&labelColor=0a0000" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:8B0000,50:C0C0C0,75:8B0000,100:000000&height=2" width="100%" />
+
+<h2 align="center">✠ 𝕿𝖍𝖊 𝕬𝖗𝖘𝖊𝖓𝖆𝖑 ✠</h2>
 
 <div align="center">
 
@@ -55,118 +67,74 @@ $ ls -la ~/current-work/
 <br/>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma,docker,aws,nginx,git,github,vscode&theme=dark&perline=10" />
 
-<br/><br/>
+</div>
 
-<img src="https://img.shields.io/badge/FRONTEND-000000?style=flat-square&labelColor=000000" />
-<img src="https://img.shields.io/badge/react-8B0000?style=flat-square&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/next.js-8B0000?style=flat-square&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/tailwind-8B0000?style=flat-square&logo=tailwindcss&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/BACKEND-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/node.js-CC0000?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/fastapi-CC0000?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/redis-CC0000?style=flat-square&logo=redis&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/INFRA-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/docker-4a0000?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/aws-4a0000?style=flat-square&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/nginx-4a0000?style=flat-square&logo=nginx&logoColor=white" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:8B0000,50:C0C0C0,75:8B0000,100:000000&height=2" width="100%" />
+
+<h2 align="center">✠ 𝕽𝖎𝖌𝖍𝖙 𝕹𝖔𝖜 ✠</h2>
+
+<div align="center">
+
+| | |
+|:--|:--|
+| 🩸 **Shipping** | ClippieX |
+| ⚔️ **Building** | Real-time dashboard with WebSockets and Redis |
+| 🗡️ **Forging** | A TypeScript CLI toolchain |
+| 📜 **Studying** | Rust and AI integrations |
+| 🕯️ **Next** | NotchAura |
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8B0000,100:000000&height=2&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:8B0000,50:C0C0C0,75:8B0000,100:000000&height=2" width="100%" />
 
-## `〔 04 〕` ⟶ 𝚏𝚎𝚊𝚝𝚞𝚛𝚎𝚍
+<h2 align="center">✠ 𝕿𝖍𝖊 𝕮𝖔𝖚𝖓𝖙 ✠</h2>
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=APZXCORE&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=B3001B&icon_color=C0C0C0&text_color=aaaaaa&ring_color=B3001B&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=APZXCORE&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=B3001B&text_color=aaaaaa" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=APZXCORE&hide_border=true&background=00000000&stroke=8B0000&ring=B3001B&fire=B3001B&currStreakNum=C0C0C0&sideNums=C0C0C0&currStreakLabel=B3001B&sideLabels=aaaaaa&dates=666666" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=APZXCORE&bg_color=00000000&color=aaaaaa&line=B3001B&point=C0C0C0&area=true&area_color=3a0000&hide_border=true&custom_title=Blood%20Trail" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:8B0000,50:C0C0C0,75:8B0000,100:000000&height=2" width="100%" />
+
+<h2 align="center">✠ 𝕿𝖍𝖊 𝕻𝖆𝖈𝖙 ✠</h2>
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-### ▸ [`APZX TOOLS`](https://github.com/APZXCORE/apzx-tools)
+**✦ I TAKE**
 
-Enterprise account & API proxy manager for Gemini and Claude.
-
-<img src="https://img.shields.io/badge/typescript-000000?style=flat-square&logo=typescript&logoColor=CC0000" />
-<img src="https://img.shields.io/badge/node.js-000000?style=flat-square&logo=node.js&logoColor=CC0000" />
-<img src="https://img.shields.io/github/stars/APZXCORE/apzx-tools?style=flat-square&color=8B0000&labelColor=000000&logo=github" />
+Freelance full-stack builds<br/>
+Technical consulting<br/>
+Open-source collabs
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-### ▸ [`APZX RIPPER`](https://github.com/APZXCORE/APZX-RIPPER)
+**✕ I REFUSE**
 
-Full site ripper v1.0.0: complete website scraping and archiving.
-
-<img src="https://img.shields.io/badge/python-000000?style=flat-square&logo=python&logoColor=CC0000" />
-<img src="https://img.shields.io/badge/automation-000000?style=flat-square&logo=githubactions&logoColor=CC0000" />
-<img src="https://img.shields.io/github/stars/APZXCORE/APZX-RIPPER?style=flat-square&color=8B0000&labelColor=000000&logo=github" />
+Spec work or free trials<br/>
+Unpaid gigs or "exposure"<br/>
+Equity-only offers
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8B0000,100:000000&height=2&section=header" width="100%" />
-
-## `〔 05 〕` ⟶ 𝚝𝚎𝚕𝚎𝚖𝚎𝚝𝚛𝚢
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=APZXCORE&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=CC0000&icon_color=CC0000&text_color=9a9a9a&ring_color=8B0000&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=APZXCORE&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=CC0000&text_color=9a9a9a" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=APZXCORE&hide_border=true&background=00000000&stroke=8B0000&ring=CC0000&fire=CC0000&currStreakNum=CC0000&sideNums=CC0000&currStreakLabel=9a9a9a&sideLabels=9a9a9a&dates=555555" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=APZXCORE&bg_color=00000000&color=9a9a9a&line=CC0000&point=ffffff&area=true&area_color=8B0000&hide_border=true&custom_title=%E2%96%B8%20commit%20signal" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=APZXCORE&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8B0000,100:000000&height=2&section=header" width="100%" />
-
-## `〔 06 〕` ⟶ 𝚑𝚒𝚛𝚎_𝚖𝚎
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**`[ ✓ ] OPEN FOR`**
-
-```diff
-+ freelance full-stack builds
-+ technical consulting
-+ open-source collaboration
-```
-
-</td>
-<td width="50%" valign="top">
-
-**`[ ✗ ] NOT FOR`**
-
-```diff
-- spec work / free trials
-- unpaid gigs or "exposure"
-- equity-only offers
-```
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<a href="mailto:support@core.apzx.fun"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1200&color=9A9A9A&center=true&vCenter=true&width=520&lines=%E2%96%B8+support%40core.apzx.fun+%E2%80%94+same-day+replies;%E2%96%B8+apzx.fun+%E2%80%94+see+what+ships" /></a>
-
-</div>
-
-<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
-
-<div align="center">
+<a href="mailto:support@core.apzx.fun"><img src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=22&duration=3000&pause=1500&color=C0C0C0&center=true&vCenter=true&width=520&lines=support%40core.apzx.fun;Same-day+replies.;Summon+me+between+12+AM+and+4+AM+PKT." /></a>
 
 <br/>
 
-<sub><code>ship fast</code> · <code>break things</code> · <code>fix faster</code></sub>
+<img src="https://readme-typing-svg.demolab.com?font=Metal+Mania&size=20&duration=4000&pause=1000&color=8B0000&center=true&vCenter=true&width=520&lines=Ship+fast.+Break+things.+Fix+faster." />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:1a0000&height=120&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:3a0000,100:000000&height=110&section=footer&animation=twinkling" width="100%" />
 
 </div>
