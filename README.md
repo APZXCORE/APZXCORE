@@ -76,7 +76,7 @@
 
 <br/><br/>
 
-<a href="https://notchaura.xyz"><img src="https://img.shields.io/badge/%E2%80%A0%20SUMMON%20IT-555555?style=for-the-badge&labelColor=0a0000" /></a>
+<a href="https://github.com/APZXCORE/NotchAura/releases/tag/Release"><img src="https://img.shields.io/badge/%E2%80%A0%20DOWNLOAD%20.EXE-555555?style=for-the-badge&logo=github&logoColor=C0C0C0&labelColor=0a0000" /></a>
 
 <br/><br/>
 
