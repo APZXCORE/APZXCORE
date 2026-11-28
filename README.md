@@ -43,6 +43,8 @@
 
 <img src="https://img.shields.io/badge/%E2%97%8F%20LIVE-B3001B?style=flat-square&labelColor=0a0000" />
 <img src="https://img.shields.io/badge/Windows-0a0000?style=flat-square&logo=windows&logoColor=C0C0C0" />
+<img src="https://img.shields.io/badge/macOS-0a0000?style=flat-square&logo=apple&logoColor=C0C0C0" />
+<img src="https://img.shields.io/badge/Linux-0a0000?style=flat-square&logo=linux&logoColor=C0C0C0" />
 
 <br/><br/>
 
@@ -139,7 +141,7 @@
 | | |
 |:--|:--|
 | 🩸 **Shipping** | ClippieX |
-| 🕯️ **Releasing** | NotchAura v1.5.0 |
+| 🕯️ **Latest release** | NotchAura v1.5.0 |
 | ⚔️ **Forging** | Real-time dashboard with WebSockets and Redis |
 | 📜 **Studying** | Rust and AI integrations |
 
